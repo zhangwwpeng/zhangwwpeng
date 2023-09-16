@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zhangwwpeng
-- 👀 I’m interested in fpga
+- 👀 I’m interested in fpga,ic
 - 🌱 I’m currently learning verilog,systemverilog,uvm
 
 <!---
